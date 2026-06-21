@@ -1,0 +1,8 @@
+data/
+vector_store/
+*.csv
+*.pkl
+*.index
+__pycache__/
+*.pyc
+.env
